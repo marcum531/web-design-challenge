@@ -1,0 +1,37 @@
+html{
+    background-color: lightblue;
+}
+
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 64px;
+    color: darkblue;
+    position: absolute;
+    top: 0;
+    left: 25%;
+}
+
+.navbar{
+    border: 2px solid black;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+}
+
+p1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: blue;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+p2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: blue;
+    position: absolute;
+    top: 70%;
+    left: 20%;
+}
