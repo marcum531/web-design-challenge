@@ -36,3 +36,21 @@ p2{
     left: 20%;
 }
 
+img{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+    position: absolute;
+    top: 40%;
+    left: 10%
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: maroon;
+    position: absolute;
+    top: 45%;
+    right: 10%;
+}
