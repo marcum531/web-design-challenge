@@ -18,23 +18,7 @@ header{
     background-color: rgb(129, 211, 238);
 }
 
-/* p1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 16px;
-    color: blue;
-    position: absolute;
-    top: 30%;
-    left: 20%;
-}
 
-p2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 16px;
-    color: blue;
-    position: absolute;
-    top: 70%;
-    left: 20%;
-} */
 /* Body color */
 body{ 
     background-color: rgb(237,237,237);
@@ -94,13 +78,13 @@ img{
     left: 10% */
 }
 
-p{
+div p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     color: maroon;
     position: absolute;
     top: 45%;
-    right: 10%;
+    right: 0;
 }
 a{
     width: 300px;
@@ -163,9 +147,4 @@ footer{
         outline: 1px dotted;
         outline: 5px auto; 
         }
-    body{
-
-    }
-
-    }
     }
